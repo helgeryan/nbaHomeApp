@@ -9,8 +9,8 @@ Alamofire, Version 5.7.1, source: https://github.com/Alamofire/Alamofire
 
 ## Technologies Used
 
-SwiftUI
-Alamofire 
-RESTful API
-MVVM
-Swift (Codables, Protocols, Enumerations)
+- SwiftUI
+- Alamofire 
+- RESTful API
+- MVVM
+- Swift (Codables, Protocols, Enumerations)
