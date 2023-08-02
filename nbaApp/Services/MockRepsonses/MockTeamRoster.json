@@ -1,0 +1,583 @@
+{
+  "id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+  "name": "Timberwolves",
+  "market": "Minnesota",
+  "alias": "MIN",
+  "founded": 1989,
+  "sr_id": "sr:team:3426",
+  "reference": "1610612750",
+  "venue": {
+    "id": "7aed802e-3562-5b73-af1b-3859529f9b95",
+    "name": "Target Center",
+    "capacity": 19356,
+    "address": "600 First Avenue North",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "country": "USA",
+    "sr_id": "sr:venue:6930",
+    "location": {
+      "lat": "44.979444",
+      "lng": "-93.276111"
+    }
+  },
+  "league": {
+    "id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+    "name": "NBA",
+    "alias": "NBA"
+  },
+  "conference": {
+    "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+    "name": "WESTERN CONFERENCE",
+    "alias": "WESTERN"
+  },
+  "division": {
+    "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+    "name": "Northwest",
+    "alias": "NORTHWEST"
+  },
+  "coaches": [
+    {
+      "id": "fc135b85-7a10-4df9-b32b-6e23b0ca04a2",
+      "full_name": "Chris Finch",
+      "first_name": "Chris",
+      "last_name": "Finch",
+      "position": "Head Coach",
+      "experience": "1",
+      "reference": "202896"
+    }
+  ],
+  "team_colors": [
+    {
+      "type": "primary",
+      "hex_color": "#0c2340",
+      "rgb_color": {
+        "red": 12,
+        "green": 35,
+        "blue": 64
+      }
+    },
+    {
+      "type": "secondary",
+      "hex_color": "#236192",
+      "rgb_color": {
+        "red": 35,
+        "green": 97,
+        "blue": 146
+      }
+    }
+  ],
+  "players": [
+    {
+      "id": "042f45b2-1dda-4dce-a5ba-1e8b923178c1",
+      "status": "TWO-WAY",
+      "full_name": "Matt Ryan",
+      "first_name": "Matt",
+      "last_name": "Ryan",
+      "abbr_name": "M.Ryan",
+      "height": 78,
+      "weight": 215,
+      "position": "F",
+      "primary_position": "SF",
+      "jersey_number": "37",
+      "experience": "1",
+      "college": "Chattanooga",
+      "high_school": "Iona Prep (NY)",
+      "birth_place": "White Plains, NY, USA",
+      "birthdate": "1997-04-17",
+      "updated": "2023-03-08T23:31:59Z",
+      "sr_id": "sr:player:1158584",
+      "rookie_year": 2021,
+      "reference": "1630346",
+      "draft": {
+        "year": 2020
+      }
+    },
+    {
+      "id": "2e49c27a-06c5-4c4a-87fd-69840b783947",
+      "status": "ACT",
+      "full_name": "Kyle Anderson",
+      "first_name": "Kyle",
+      "last_name": "Anderson",
+      "abbr_name": "K.Anderson",
+      "height": 81,
+      "weight": 230,
+      "position": "F-G",
+      "primary_position": "SF",
+      "jersey_number": "5",
+      "experience": "8",
+      "college": "UCLA",
+      "high_school": "St. Anthony (NJ)",
+      "birth_place": "New York City, NY, USA",
+      "birthdate": "1993-09-20",
+      "updated": "2022-10-26T19:20:39Z",
+      "sr_id": "sr:player:608000",
+      "rookie_year": 2014,
+      "reference": "203937",
+      "draft": {
+        "team_id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2014,
+        "round": "1",
+        "pick": "30"
+      }
+    },
+    {
+      "id": "34a159c8-9fe6-4386-bf01-3446f4248bcb",
+      "status": "ACT",
+      "full_name": "Austin Rivers",
+      "first_name": "Austin",
+      "last_name": "Rivers",
+      "abbr_name": "A.Rivers",
+      "height": 76,
+      "weight": 200,
+      "position": "G",
+      "primary_position": "SG",
+      "jersey_number": "25",
+      "experience": "10",
+      "college": "Duke",
+      "high_school": "Winter Park (FL)",
+      "birth_place": "Santa Monica, CA, USA",
+      "birthdate": "1992-08-01",
+      "updated": "2023-02-09T13:47:19Z",
+      "sr_id": "sr:player:607810",
+      "rookie_year": 2012,
+      "reference": "203085",
+      "draft": {
+        "team_id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2012,
+        "round": "1",
+        "pick": "10"
+      },
+      "injuries": [
+        {
+          "id": "de22ff53-e6b2-4a1a-8ea6-94e465a018b9",
+          "comment": "Rivers is questionable for Wednesday's (Mar 15) game against Boston.",
+          "desc": "Back",
+          "status": "Day To Day",
+          "start_date": "2023-03-10",
+          "update_date": "2023-03-14"
+        }
+      ]
+    },
+    {
+      "id": "37fbc3a5-0d10-4e22-803b-baa2ea0cdb12",
+      "status": "ACT",
+      "full_name": "Rudy Gobert",
+      "first_name": "Rudy",
+      "last_name": "Gobert",
+      "abbr_name": "R.Gobert",
+      "height": 85,
+      "weight": 258,
+      "position": "C",
+      "primary_position": "C",
+      "jersey_number": "27",
+      "experience": "9",
+      "birth_place": "Saint-Quentin,, FRA",
+      "birthdate": "1992-06-26",
+      "updated": "2022-10-26T19:21:17Z",
+      "sr_id": "sr:player:607808",
+      "rookie_year": 2013,
+      "reference": "203497",
+      "draft": {
+        "team_id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2013,
+        "round": "1",
+        "pick": "27"
+      },
+      "injuries": [
+        {
+          "id": "c400d583-a23a-454d-9c18-95c713ea2c3f",
+          "comment": "Gobert is questionable for Wednesday's (Mar 15) game against Boston.",
+          "desc": "Ankle",
+          "status": "Day To Day",
+          "start_date": "2023-03-14",
+          "update_date": "2023-03-14"
+        }
+      ]
+    },
+    {
+      "id": "460b7264-b98f-483e-b841-59a18c2e4d67",
+      "status": "ACT",
+      "full_name": "Mike Conley",
+      "first_name": "Mike",
+      "last_name": "Conley",
+      "abbr_name": "M.Conley",
+      "height": 73,
+      "weight": 175,
+      "position": "G",
+      "primary_position": "PG",
+      "jersey_number": "10",
+      "experience": "15",
+      "college": "Ohio State",
+      "high_school": "Lawrence North (IN)",
+      "birth_place": "Fayetteville, AR, USA",
+      "birthdate": "1987-10-11",
+      "updated": "2023-02-09T19:46:44Z",
+      "sr_id": "sr:player:608194",
+      "rookie_year": 2007,
+      "reference": "201144",
+      "draft": {
+        "team_id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2007,
+        "round": "1",
+        "pick": "4"
+      }
+    },
+    {
+      "id": "4f80cdb1-1b10-4669-9774-045bc8a99c99",
+      "status": "ACT",
+      "full_name": "Taurean Prince",
+      "first_name": "Taurean",
+      "last_name": "Prince",
+      "abbr_name": "T.Prince",
+      "height": 78,
+      "weight": 218,
+      "position": "F",
+      "primary_position": "PF",
+      "jersey_number": "12",
+      "experience": "6",
+      "college": "Baylor",
+      "high_school": "Earl Warren (TX)",
+      "birth_place": "San Marcos, TX, USA",
+      "birthdate": "1994-03-22",
+      "updated": "2022-10-26T19:21:04Z",
+      "sr_id": "sr:player:996279",
+      "rookie_year": 2016,
+      "reference": "1627752",
+      "draft": {
+        "team_id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2016,
+        "round": "1",
+        "pick": "12"
+      }
+    },
+    {
+      "id": "59b8fe2b-cd77-4526-8047-816b1f081351",
+      "status": "ACT",
+      "full_name": "Nathan Knight",
+      "first_name": "Nathan",
+      "last_name": "Knight",
+      "abbr_name": "N.Knight",
+      "height": 80,
+      "weight": 253,
+      "position": "F-C",
+      "primary_position": "PF",
+      "jersey_number": "13",
+      "experience": "2",
+      "college": "William & Mary",
+      "high_school": "Kimball Union Academy (NH)",
+      "birth_place": "Syracuse, NY, USA",
+      "birthdate": "1997-09-20",
+      "updated": "2022-10-26T19:21:09Z",
+      "sr_id": "sr:player:1167592",
+      "rookie_year": 2020,
+      "reference": "1630233",
+      "draft": {
+        "year": 2020
+      }
+    },
+    {
+      "id": "6e16fada-c4ba-42af-ab1d-aca511a6c684",
+      "status": "ACT",
+      "full_name": "Jaylen Nowell",
+      "first_name": "Jaylen",
+      "last_name": "Nowell",
+      "abbr_name": "J.Nowell",
+      "height": 76,
+      "weight": 201,
+      "position": "G",
+      "primary_position": "SG",
+      "jersey_number": "4",
+      "experience": "3",
+      "college": "Washington",
+      "high_school": "Garfield (WA)",
+      "birth_place": "Seattle, WA, USA",
+      "birthdate": "1999-07-09",
+      "updated": "2022-10-26T19:20:35Z",
+      "sr_id": "sr:player:1320568",
+      "rookie_year": 2019,
+      "reference": "1629669",
+      "draft": {
+        "team_id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2019,
+        "round": "2",
+        "pick": "43"
+      },
+      "injuries": [
+        {
+          "id": "634149af-577a-4cce-a965-69a643fedda0",
+          "comment": "Nowell hasn't played since Feb. 24 against Charlotte and remains without a timetable to return.",
+          "desc": "Knee",
+          "status": "Out",
+          "start_date": "2023-03-06",
+          "update_date": "2023-03-09"
+        }
+      ]
+    },
+    {
+      "id": "823b2161-0c34-494c-9d7c-b438152f4f4d",
+      "status": "ACT",
+      "full_name": "Naz Reid",
+      "first_name": "Naz",
+      "last_name": "Reid",
+      "abbr_name": "N.Reid",
+      "height": 81,
+      "weight": 264,
+      "position": "C-F",
+      "primary_position": "C",
+      "jersey_number": "11",
+      "experience": "3",
+      "college": "LSU",
+      "high_school": "Roselle Catholic (NJ)",
+      "birth_place": "Asbury Park, NJ, USA",
+      "birthdate": "1999-08-26",
+      "updated": "2022-10-26T19:21:00Z",
+      "sr_id": "sr:player:1796560",
+      "rookie_year": 2019,
+      "reference": "1629675",
+      "draft": {
+        "year": 2019
+      },
+      "injuries": [
+        {
+          "id": "d2652f76-c8a1-47af-8432-40fc146858fa",
+          "comment": "Reid is questionable for Wednesday's (Mar 15) game against Boston.",
+          "desc": "Calf",
+          "status": "Day To Day",
+          "start_date": "2023-03-14",
+          "update_date": "2023-03-14"
+        }
+      ]
+    },
+    {
+      "id": "8da31ebc-6614-4209-8685-5442bc09887b",
+      "status": "TWO-WAY",
+      "full_name": "Luka Garza",
+      "first_name": "Luka",
+      "last_name": "Garza",
+      "abbr_name": "L.Garza",
+      "height": 82,
+      "weight": 243,
+      "position": "C",
+      "primary_position": "C",
+      "jersey_number": "55",
+      "experience": "1",
+      "college": "Iowa ",
+      "high_school": "Maret School (DC)",
+      "birth_place": "Washington, DC, USA",
+      "birthdate": "1998-12-27",
+      "updated": "2023-03-08T23:29:34Z",
+      "sr_id": "sr:player:1279058",
+      "rookie_year": 2021,
+      "reference": "1630568",
+      "draft": {
+        "team_id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2021,
+        "round": "2",
+        "pick": "52"
+      }
+    },
+    {
+      "id": "aa5536d2-4d75-43fb-8df3-47fbf99d3b7c",
+      "status": "ACT",
+      "full_name": "Jaden McDaniels",
+      "first_name": "Jaden",
+      "last_name": "McDaniels",
+      "abbr_name": "J.McDaniels",
+      "height": 81,
+      "weight": 185,
+      "position": "F",
+      "primary_position": "PF",
+      "jersey_number": "3",
+      "experience": "2",
+      "college": "Washington",
+      "high_school": "Federal Way (WA)",
+      "birth_place": "Federal Way, WA, USA",
+      "birthdate": "2000-09-29",
+      "updated": "2022-10-26T19:20:32Z",
+      "sr_id": "sr:player:1837406",
+      "rookie_year": 2020,
+      "reference": "1630183",
+      "draft": {
+        "team_id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2020,
+        "round": "1",
+        "pick": "28"
+      }
+    },
+    {
+      "id": "ab532a66-9314-4d57-ade7-bb54a70c65ad",
+      "status": "ACT",
+      "full_name": "Karl-Anthony Towns",
+      "first_name": "Karl-Anthony",
+      "last_name": "Towns",
+      "abbr_name": "K.Towns",
+      "height": 84,
+      "weight": 248,
+      "position": "C-F",
+      "primary_position": "C",
+      "jersey_number": "32",
+      "experience": "7",
+      "college": "Kentucky",
+      "high_school": "St. Joseph (NJ)",
+      "birth_place": "Edison, NJ, USA",
+      "birthdate": "1995-11-15",
+      "updated": "2022-10-26T19:21:20Z",
+      "sr_id": "sr:player:852120",
+      "rookie_year": 2015,
+      "reference": "1626157",
+      "draft": {
+        "team_id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2015,
+        "round": "1",
+        "pick": "1"
+      },
+      "injuries": [
+        {
+          "id": "50f03bcc-9a16-4bff-afe4-9d44d3461334",
+          "comment": "The hope is that Towns is able to come back for the teams' final 10-15 games of the season, according to Shams Charania of The Athletic. This timetable would put his possible return for mid-to-late March.",
+          "desc": "Calf",
+          "status": "Out",
+          "start_date": "2022-11-28",
+          "update_date": "2023-02-17"
+        }
+      ]
+    },
+    {
+      "id": "bde7f42e-7296-453d-bcba-cac6fad2d03f",
+      "status": "ACT",
+      "full_name": "Jordan McLaughlin",
+      "first_name": "Jordan",
+      "last_name": "McLaughlin",
+      "abbr_name": "J.McLaughlin",
+      "height": 72,
+      "weight": 185,
+      "position": "G",
+      "primary_position": "PG",
+      "jersey_number": "6",
+      "experience": "3",
+      "college": "USC",
+      "high_school": "Etiwanda (CA)",
+      "birth_place": "Pasadena, CA, USA",
+      "birthdate": "1996-04-09",
+      "updated": "2022-10-26T19:20:43Z",
+      "sr_id": "sr:player:1161592",
+      "rookie_year": 2019,
+      "reference": "1629162",
+      "draft": {
+        "year": 2018
+      }
+    },
+    {
+      "id": "c4cf8fb6-b7de-45f2-b9f9-9365b8f2f2ed",
+      "status": "ACT",
+      "full_name": "Josh Minott",
+      "first_name": "Josh",
+      "last_name": "Minott",
+      "abbr_name": "J.Minott",
+      "height": 80,
+      "weight": 205,
+      "position": "F",
+      "primary_position": "SF",
+      "jersey_number": "8",
+      "experience": "0",
+      "college": "Memphis",
+      "high_school": "Saint Andrew's School (FL)",
+      "birth_place": "Boca Raton, FL, USA",
+      "birthdate": "2002-11-25",
+      "updated": "2023-02-28T20:35:15Z",
+      "sr_id": "sr:player:2218376",
+      "reference": "1631169",
+      "draft": {
+        "team_id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2022,
+        "round": "2",
+        "pick": "45"
+      }
+    },
+    {
+      "id": "d0c7135a-1aea-40cb-ba20-df656de71749",
+      "status": "ACT",
+      "full_name": "Anthony Edwards",
+      "first_name": "Anthony",
+      "last_name": "Edwards",
+      "abbr_name": "A.Edwards",
+      "height": 76,
+      "weight": 225,
+      "position": "G",
+      "primary_position": "SG",
+      "jersey_number": "1",
+      "experience": "2",
+      "college": "Georgia",
+      "high_school": "Holy Spirit Prep (GA)",
+      "birth_place": "Atlanta, GA, USA",
+      "birthdate": "2001-08-05",
+      "updated": "2022-10-26T19:20:28Z",
+      "sr_id": "sr:player:1876136",
+      "rookie_year": 2020,
+      "reference": "1630162",
+      "draft": {
+        "team_id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2020,
+        "round": "1",
+        "pick": "1"
+      }
+    },
+    {
+      "id": "d3d0ab55-b939-47b3-af27-77cdf85d7956",
+      "status": "ACT",
+      "full_name": "Nickeil Alexander-Walker",
+      "first_name": "Nickeil",
+      "last_name": "Alexander-Walker",
+      "abbr_name": "N.Alexander-Walker",
+      "height": 77,
+      "weight": 205,
+      "position": "G",
+      "primary_position": "SG",
+      "jersey_number": "9",
+      "experience": "3",
+      "college": "Virginia Tech",
+      "high_school": "Hamilton Heights Christian Academy (TN)",
+      "birth_place": "Toronto, ON, CAN",
+      "birthdate": "1998-09-02",
+      "updated": "2023-02-09T19:46:49Z",
+      "sr_id": "sr:player:1307780",
+      "rookie_year": 2019,
+      "reference": "1629638",
+      "draft": {
+        "team_id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2019,
+        "round": "1",
+        "pick": "17"
+      }
+    },
+    {
+      "id": "e23521cd-8e92-4701-b9e7-dc4acd21dfec",
+      "status": "ACT",
+      "full_name": "Wendell Moore Jr.",
+      "first_name": "Wendell",
+      "last_name": "Moore",
+      "abbr_name": "W.Moore",
+      "height": 77,
+      "weight": 215,
+      "position": "G",
+      "primary_position": "SG",
+      "jersey_number": "7",
+      "experience": "0",
+      "college": "Duke",
+      "high_school": "Cox Mill (NC)",
+      "birth_place": "Richmond, VA, USA",
+      "birthdate": "2001-09-18",
+      "updated": "2023-02-28T20:35:11Z",
+      "name_suffix": "Jr.",
+      "sr_id": "sr:player:1797216",
+      "reference": "1631111",
+      "draft": {
+        "team_id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+        "year": 2022,
+        "round": "1",
+        "pick": "26"
+      }
+    }
+  ]
+}
